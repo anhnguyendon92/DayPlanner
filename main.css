@@ -22,8 +22,24 @@ body {
   }
 
 
-input {
- width: 70%;
- 
+
+input, .row {
+ width: 80%;
+ text-align: left;
+ padding-left: 1rem;
+ background: white;
+ border-right: 1px solid lightgrey;
+ border-top: 1px solid lightgrey;
+ font-size: 14px;
+
 }
+
+button {
+  width: 10%;
+  text-align: center;
+  padding-top: 1.5rem;
+  border-radius: 4px;
+  background: #36a6cf;
+}
+
 
